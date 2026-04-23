@@ -1,4 +1,6 @@
-" MIST - THEME
+"       MIST - THEME
+"  
+"            *    this is a main file.
 "
 "  @Copyright 2026 <NopAngel>
 "
